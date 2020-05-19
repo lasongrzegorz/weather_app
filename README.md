@@ -1,4 +1,4 @@
-# weather_app
+# City Weather App
 A simple weather app displaying city weather using api data from openweathermap.org
 
 
