@@ -1,7 +1,6 @@
 .idea/
 *.pyc
-secret_key.txt
-postgrepswd.txt
+.env
 *.sqlite3
 
 # Byte-compiled / optimized / DLL files
